@@ -1,5 +1,5 @@
 import requests, json
-api_key="1735fec0ffc5adea93fcbe29dfa8a6c4"
+api_key="1735"
 
 #base url variable to store url
 base_url="https://api.openweathermap.org/data/2.5/weather?"
