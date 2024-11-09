@@ -8,7 +8,7 @@ Welcome to my Python projects repository! Here you'll find a collection of Pytho
 |--------------------------|-------------------------------------------------------|----------------|
 | **[basic programs ]**          | Simple prgroms to get started on python.                     | Python   |
 | **[Weather App]**          | A Python script to fetch and display the current weather.  | Python, API    |
-| **[tkinter and server]**      | A command-line to generarte a basic tkinter with python. | Python ,Tkinter  |
+| **[tkinter and server]**      | A command-line to generate a basic tkinter with python. | Python ,Tkinter  |
 
 ## 🛠️ Installation & Usage
 
